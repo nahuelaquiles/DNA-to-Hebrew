@@ -1,0 +1,3 @@
+# Python package requirements for DNA-to-Hebrew project
+# This project primarily uses Python's standard library.
+# You can install optional packages if you wish to extend functionality.
